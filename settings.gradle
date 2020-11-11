@@ -1,0 +1,3 @@
+include ':eventDispatcher'
+include ':app'
+rootProject.name = "EventDispatcher"
